@@ -7,10 +7,10 @@ export default function Footer() {
       <p className="text-sm font-medium leading-none sm:py-2 sm:mt-0 mt-4">
         A JS Mastery project. Made with ❤️ by{" "}
         <a
-          href="https://github.com/sohomofficial"
+          href="https://github.com/SHORYASHOKANDA"
           className="font-bold hover:underline underline-offset-4"
         >
-          Sohom Mondal
+          C
         </a>
       </p>
       <span className="inline-flex gap-4 sm:ml-auto sm:mt-0 mt-4 items-center justify-center sm:justify-start">
